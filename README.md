@@ -1,4 +1,4 @@
-Get Present script directory.
+Get present script directory.
 
 ```bash
 # Get present script directory.
